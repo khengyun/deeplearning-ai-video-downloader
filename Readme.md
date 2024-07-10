@@ -4,7 +4,7 @@ This project provides a Chrome extension that allows users to download videos fr
 
 ## DEMO
 
-![Screencast](images/Readme/video.mp4)
+[![Screencast](images/Readme/1720594381376.png)](images/Readme/video.mp4)
 
 ## Features
 
