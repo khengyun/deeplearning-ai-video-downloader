@@ -4,7 +4,9 @@ This project provides a Chrome extension that allows users to download videos fr
 
 ## DEMO
 
-[![Screencast](images/Readme/1720594381376.png)](images/Readme/video.mp4)
+
+https://github.com/khengyun/deeplearning-ai-video-downloader/assets/78076796/1a3d68f9-e9c6-40b9-97a1-96035418c44c
+
 
 ## Features
 
