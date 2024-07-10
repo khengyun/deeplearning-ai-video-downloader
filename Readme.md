@@ -2,6 +2,10 @@
 
 This project provides a Chrome extension that allows users to download videos from web pages and convert them to MP4 format. The extension works with m3u8 video streams and uses a Node.js server to handle the conversion process.
 
+## DEMO
+
+![Screencast](images/Readme/video.mp4)
+
 ## Features
 
 - Adds a "Download" button to video elements on web pages.
@@ -35,8 +39,8 @@ This project provides a Chrome extension that allows users to download videos fr
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/video-downloader.git 
-cd video-downloader
+git clone https://github.com/khengyun/deeplearning-ai-video-downloader.git 
+cd deeplearning-ai-video-downloader
 ```
 
 ### 2. Run the Node.js Server
